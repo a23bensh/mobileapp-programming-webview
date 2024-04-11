@@ -14,6 +14,5 @@ Här lades även de rätta url:sen i rätt voids. Samt lades "show" till för b�
    4. myWebView.getSettings().setJavaScriptEnabled(true);
 ```
 
-
-![Screenshot_20240411_145927.png](Screenshot_20240411_145927.png)
-![Screenshot_20240411_145952.png](Screenshot_20240411_145952.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
