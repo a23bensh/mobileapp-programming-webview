@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Kycklingar</string>
-    <string name="action_external_web">Ris</string>
-    <string name="action_internal_web">Kikärtor</string>
+    <string name="action_external_web">External</string>
+    <string name="action_internal_web">Internal</string>
 </resources>
